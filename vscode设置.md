@@ -152,24 +152,6 @@
 跳转到[markdown中不常用的操作](#index)
 
 
-
-<a href="#test2">点击跳转到标题2</a>
- 文本
- 文本
- 
- 
- 
- 
- 
- 
- 
- 
- 
- ### <a id="test2">标题2</a>
-
-
-
-
 [^1]:Markdown是一种纯文本标记语言
 
 [^2]:HyperText Markup Language 超文本标记语言
