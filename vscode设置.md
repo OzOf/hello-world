@@ -49,7 +49,7 @@
 
 + `github`是一个面向开源及私有软件项目的托管平台
 
-# markdown中不常用操作 {#index}
+# markdown中不常用操作 (#index)
 
 ## 注脚
 
